@@ -21,8 +21,6 @@ Technology	Details
 
 🚦 Getting Started
 
-🔧 Prerequisites
-
 Make sure you have the following installed:
 	•	🐍 Python (>=3.8)
 	•	🛠️ Git
