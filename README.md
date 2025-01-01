@@ -1,6 +1,4 @@
-Here’s an enhanced and visually engaging version of your Engi Help API README with icons, structured layout, and better formatting to make it stand out:
-
-🚀 Engi Help API
+#🚀 Engi Help API
 
 Your one-stop solution for academic assistance!
 
@@ -18,9 +16,8 @@ The Engi Help API is a powerful, feature-rich platform designed to assist colleg
 
 Technology	Details
 🐍 Backend	Python (Flask/Django/FastAPI)
-🗄️ Database	MySQL / MongoDB
+🗄️ Database	MySQL / SQLAlchemy
 🔐 Authentication	JWT for secure access
-🐳 Deployment	Docker for containerization
 
 🚦 Getting Started
 
@@ -29,42 +26,12 @@ Technology	Details
 Make sure you have the following installed:
 	•	🐍 Python (>=3.8)
 	•	🛠️ Git
-	•	🐳 Docker (optional for deployment)
 
 📥 Installation
 	1.	Clone the Repository
 
 git clone https://github.com/yourusername/engi-help-api.git
 cd engi-help-api
-
-
-	2.	Install Dependencies
-
-pip install -r requirements.txt
-
-
-	3.	Set Up Environment Variables
-Create a .env file in the project root:
-
-DATABASE_URL=<your_database_url>
-SECRET_KEY=<your_secret_key>
-DEBUG=True
-
-
-	4.	Run the Server
-
-python app.py
-
-Access the API at http://localhost:5000.
-
-🔗 API Endpoints
-
-Method	Endpoint	Description
-GET	/assignments	Fetch a list of assignments.
-POST	/assignments	Submit a new assignment.
-GET	/projects	Fetch project resources.
-POST	/doubts	Submit a doubt for resolution.
-GET	/resources	Fetch curated study materials.
 
 🤝 Contributing
 
@@ -94,7 +61,7 @@ This project is licensed under the MIT License.
 📬 Contact
 
 👨‍💻 Author: Aditya Vaish
-📧 Email: adityavaish@example.com
-🌐 GitHub: AdityaVaish
+📧 Email: adityavaish846example.com
+🌐 GitHub: vaishcodescape
 
 Feel free to copy this, tweak it further, and let me know if you’d like even more enhancements! 🚀
