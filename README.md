@@ -28,7 +28,7 @@ Make sure you have the following installed:
 📥 Installation
 	1.	Clone the Repository
 
-git clone https://github.com/yourusername/engi-help-api.git
+git clone https://github.com/vaishcodescape/engi-help-api.git
 cd engi-help-api
 
 🤝 Contributing
